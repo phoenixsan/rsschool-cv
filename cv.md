@@ -19,6 +19,7 @@ Game Design (System Design, Game Balance, Monetization, Design Documentation, Un
 ### Senior Game Designer
 
 **Playrix** 02.2023 — 07.2023
+
 Developed new features to achieve key KPI goals as a game designer on one of the largest and oldest projects of the company — **Township**.
 
 - Managed the entire development cycle of new features.
@@ -31,7 +32,8 @@ Developed new features to achieve key KPI goals as a game designer on one of the
 ### Lead Game Designer | Co-founder
 
 **IceCat** 2014 — 2022
-Designed and launched several mobile casual and hyper-casual projects as the lead game designer for the company. These projects include puzzle game Crystalux and tile match game Jones Adventure.  
+
+Designed and launched several mobile casual and hyper-casual projects as the lead game designer for the company. These projects include puzzle game [Crystalux](https://play.google.com/store/apps/details?id=com.icecat.hex.nd&hl=en) and tile match game [Jones Adventure](https://play.google.com/store/apps/details?id=com.ic.journey.google&hl=en).  
 Oversaw all development processes from market analysis to release.
 
 - Prototyped, tested hypotheses, and promoted new features.
@@ -41,7 +43,8 @@ Oversaw all development processes from market analysis to release.
 ### Art Director | Co-founder
 
 **RushHeads** 2008 — 2014
-Developed media advertising and web projects for well-known brands, including Sony, Mercedes, Megafon, and others. Designed and launched the entertainment portal Menupnz.ru
+
+Developed media advertising and web projects for well-known brands, including Sony, Mercedes, Megafon, and others. Designed and launched the entertainment portal [Menupnz.ru](http://www.menupnz.ru/)
 
 - Handled prototyping and presented working ideas to clients.
 - Managed a team of artists and web developers.
@@ -49,6 +52,7 @@ Developed media advertising and web projects for well-known brands, including So
 ### Web Designer | Animator
 
 **BIT-Creative** 2003 — 2007
+
 Developed media advertising and web projects as a designer-animator.
 
 ## Education
