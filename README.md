@@ -1,2 +1,1 @@
-# rsschool-cv
-First acquaintance with Markdown and HTML
+https://phoenixsan.github.io/rsschool-cv/
